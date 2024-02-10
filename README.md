@@ -16,6 +16,8 @@
 [![DevElucass Github stats](https://github-readme-stats.vercel.app/api?username=develucass&show_icons=true&theme=radical)
 
 
+[![Top langs](https://github-readme-stats-vercel.app/api/top-langs/?username=anaraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Hard Skills que eu utilizo para desenvolver um projeto ou tarefa no meu dia:
 
