@@ -1,6 +1,6 @@
 ### Olá! Eu sou Enivaldo Lucas 🙋‍♂️ (DevBackEndJr)
 
-### Sou um dev apaixonado por tecnologia e suas novidades, educação e por mudar a vida das pessoas de alguma forma através da programação.
+### Sou um dev apaixonado por tecnologia e suas novidades, sempre em busca de novos desafios, qualificação e conhecimento. Grande satisfação em poder mudar a vida das pessoas de alguma forma através da programação.
 
 
 
