@@ -7,19 +7,16 @@
 ### Redes social
 [![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https//DevElucass.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//linkedin/DevElucass) 
-[![linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https//linkedin/DevElucass) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https//linkedin/DevElucass) 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https//instagran.com/DevElucass) 
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https//dev.to/DevElucass)
-
 
 
 [![DevElucass Github stats](https://github-readme-stats.vercel.app/api?username=develucass&show_icons=true&theme=radical)
 
 
-[![Top langs](https://github-readme-stats-vercel.app/api/top-langs/?username=anaraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Hard Skills que eu utilizo para desenvolver um projeto ou tarefa no meu dia:
+### Hard Skills que eu utilizo para desenvolver um projeto ou tarefa no meu dia:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
