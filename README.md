@@ -16,7 +16,7 @@
 
 
 
-### Hard Skills que eu utilizo para desenvolver um projeto ou tarefa no meu dia:
+### Hard Skills que eu tenho formação e utilizo para desenvolver um projeto ou tarefa no meu dia:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
