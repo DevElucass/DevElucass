@@ -1,6 +1,6 @@
 ### Olá! Eu sou Enivaldo Lucas 🙋‍♂️ (DevBackEndJr)
 
-### O que me motiva é praticar códigos e criar sempre em busca de conhecimentos, informações e qualificação na área de Ti e suas novidades, novos desafios, foco e satisfação em contribuir para a vida das pessoas de alguma forma através da programação.
+### O que me motiva é praticar códigos e criar, sempre em busca de conhecimentos, informações e qualificação na área de Ti e suas novidades, novos desafios, foco e satisfação em contribuir para a vida das pessoas de alguma forma através da programação.
 
 
 
