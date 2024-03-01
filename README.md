@@ -12,10 +12,6 @@
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https//dev.to/DevElucass)
 
 [![DevElucass Github stats](https://github-readme-stats.vercel.app/api?username=develucass&show_icons=true&theme=radical)
-
- <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Lucas (DevELucass) %21+%F0%9F%91%8B">
-      </div>
   
   
 ### Hard Skills que eu tenho formação e utilizo para desenvolver um projeto ou tarefa no meu dia:
