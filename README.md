@@ -13,7 +13,13 @@
 
 [![DevElucass Github stats](https://github-readme-stats.vercel.app/api?username=develucass&show_icons=true&theme=radical)
 
-
+ <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Lucas (DevELucass) %21+%F0%9F%91%8B">
+      </div>
+      
+      <p align="center">
+        I, Lucas, am a software developer in the world of Ti who motivates me and awakens passion every day. Being useful in developing ways to contribute to people's lives through programming is a reality today.
+      </p>
 
 
 ### Hard Skills que eu tenho formação e utilizo para desenvolver um projeto ou tarefa no meu dia:
