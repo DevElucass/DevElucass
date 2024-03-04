@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Lucas%21+%F0%9F%91%8B">
 </div>
 
-Hello I'm Lucas, a software developer, with formation a Backend Jr in the Oracle-ONE-Alura program for the world of Ti that motivates me and awakens passion every day, being useful in developing ways to contribute to people's lives through programming is a reality today.
+Hello, I'm Lucas, software developer, with Backend Jr training in the Oracle-ONE-Alura program for the world from Ti, an area that motivates me and awakens passion every day and I feel useful
+by developing programs and applications that contribute somehow to a    better people's                      better life of people today.
+
+
+
 
 ### Redes social
 [![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https//DevElucass.com)
@@ -21,8 +25,7 @@ Hello I'm Lucas, a software developer, with formation a Backend Jr in the Oracle
   
   <div class+"margin-left: 1170px">
  <div class="center">
-  
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
