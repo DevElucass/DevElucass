@@ -3,7 +3,7 @@
 </div>
 
 Hello, I'm Lucas, software developer, with Backend Jr training in the Oracle-ONE-Alura program for the world from Ti, an area that motivates me and awakens passion every day and I feel useful
-by developing programs and applications that contribute somehow to a    better people's                      better life of people today.
+by developing programs and applications that contribute somehow to a better life of people today.
 
 
 
