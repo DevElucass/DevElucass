@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Lucas%21+%F0%9F%91%8B">
 </div>
-Hi, I'm Lucas, a Software Engineer and Backend Developer in the Oracle-ONE-Alura program in 2023 for the IT world, an area that motivates me and awakens great passion every day. I feel useful when developing programs and applications that contribute in some way to a better life for people today.
+Hi, I'm Lucas, a Software Engineer and Backend Developer in to Oracle-ONE-Alura program in 2023 for the IT world, an area that motivates me and awakens great passion every day. I feel useful when developing programs and applications that contribute in some way to a better life for people today.
 
 
 
