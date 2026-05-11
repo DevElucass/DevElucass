@@ -6,7 +6,7 @@ Hi, I'm Lucas, a Software Engineer and Backend Developer in to Oracle-ONE-Alura 
 
 
 ### Redes social
-
+[![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https//DevElucass.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//linkedin/DevElucass) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https//linkedin/DevElucass) 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https//instagran.com/DevElucass) 
@@ -17,7 +17,7 @@ Hi, I'm Lucas, a Software Engineer and Backend Developer in to Oracle-ONE-Alura 
   
 ### Hard Skills que eu tenho formação e utilizo para desenvolver um projeto ou tarefa no meu dia:
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevELucass&langs_count=5&theme=great-gatsby"> 
+
 
   
  <div class+"margin-left: 1170px">
