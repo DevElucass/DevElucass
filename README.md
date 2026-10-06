@@ -1,51 +1,67 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=560&height=70&lines=Hello%21+I%27m+Lucas%21+%F0%9F%91%8B">
-</div>
-Hi, I'm Lucas, a Software Engineer and Backend Developer in to Oracle-ONE-Alura program in 2023 for the IT world, an area that motivates me and awakens great passion every day. I feel useful when developing programs and applications that contribute in some way to a better life for people today.
 
+# Enivaldo Lucas de Souza
 
+**Engenharia de Software · Backend e Frontend**
 
-### Redes social
-[![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https//DevElucass.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//linkedin/DevElucass) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https//linkedin/DevElucass) 
-[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https//instagran.com/DevElucass) 
+Java · Spring Boot · PostgreSQL · Go · Python
 
+[Portfólio](https://enivaldolucas.dev) · [LinkedIn](https://www.linkedin.com/in/develucass) · [E-mail](mailto:enivaldolucas.dev@gmail.com)
 
-  
-  
-### Hard Skills que eu tenho formação e utilizo para desenvolver um projeto ou tarefa no meu dia:
-
-
-  
- <div class+"margin-left: 1170px">
- <div class="center">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /><br>
-    <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /><br>
-    <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />  
-    <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-    <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /><br>
-    <img align="center" alt="sublime text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
-    <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    <img align="center" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-    <img align="center" alt="coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </div>
 
+---
 
+## Sobre mim
 
+Sou formado em Gestão de Tecnologia da Informação e especialista em Engenharia de Software, com foco em desenvolvimento backend, APIs REST e automação de processos.
+
+Desenvolvo projetos com Java, Spring Boot, PostgreSQL, Go e Python, além de interfaces com HTML, CSS e JavaScript. Tenho interesse em inteligência artificial aplicada a negócios e na construção de plataformas SaaS B2B.
+
+Trago mais de 14 anos de experiência em logística, gestão de estoques e liderança de equipes. Essa trajetória orienta meu olhar para problemas de negócio e para o desenvolvimento de soluções úteis às empresas.
+
+Busco oportunidades em Engenharia de Software Júnior, com preferência por trabalho remoto.
+
+## Tecnologias utilizadas nos projetos
+
+| Área | Tecnologias |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Data JPA, Go, Python |
+| Frontend | HTML, CSS, JavaScript |
+| Banco de dados | PostgreSQL, SQL, PGVector |
+| Desenvolvimento | Git, GitHub, Maven, Docker, Docker Compose |
+| Serviços e deploy | Supabase, Railway, Vercel |
+| Inteligência artificial | RAG, embeddings e integração com APIs de IA |
+
+## Projetos em destaque
+
+### CorpIA — Inteligência artificial para documentos
+Projeto de consulta a documentos com arquitetura RAG, API em Java e Spring Boot e armazenamento vetorial com PostgreSQL e PGVector.
+
+[Consultar repositório](https://github.com/DevElucass/corpia)
+
+### StockManager — Gestão de estoque
+Sistema em desenvolvimento com Java, Spring Boot e PostgreSQL. Sua evolução planejada é uma plataforma SaaS B2B com isolamento dos dados de cada empresa.
+
+### GameHub — Backend em Go
+Projeto de portfólio com organização em camadas, testes unitários e integração com PostgreSQL.
+
+[Consultar repositório](https://github.com/DevElucass/gamehub-backend)
+
+### Stylusfino — Plataforma para barbearias
+Site com HTML, CSS e JavaScript e backend em desenvolvimento com Java e Spring Boot para funcionalidades de agendamento. Evolução planejada para atender múltiplas barbearias.
+
+### ARI — Automação e IA para negócios
+Projetos com Python voltados à consulta de conhecimento, processamento de informações e automação de tarefas comerciais.
+
+## Formação
+
+- **Especialização em Engenharia de Software** — concluída em 2026.
+- **Graduação em Gestão de Tecnologia da Informação** — concluída em 2024.
+- **Oracle Next Education — ONE / Alura** — concluído em 2023, com formações em Java, Spring Boot e desenvolvimento de software.
+
+## Contato
+
+- **Portfólio:** [enivaldolucas.dev](https://enivaldolucas.dev)
+- **LinkedIn:** [linkedin.com/in/develucass](https://www.linkedin.com/in/develucass)
+- **E-mail:** [enivaldolucas.dev@gmail.com](mailto:enivaldolucas.dev@gmail.com)
